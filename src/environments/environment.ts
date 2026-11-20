@@ -1,11 +1,11 @@
 export const environment = {
   production: false,
   auth: {
-    email: 'jdelvalle@ikaslea.birt.eus',
-    password: 'Birtlh',
+    email: 'CHANGE_EMAIL',
+    password: 'CHANGE_PASSWORD',
   },
   firebase : {
-    apiKey: "AIzaSyA6oJNkpBW880IwcKkhXQ4_GepnnLwj5wk",
+    apiKey: 'CHANGE_API_KEY',
     authDomain: "di-bbdd-b35e0.firebaseapp.com",
     projectId: "di-bbdd-b35e0",
     storageBucket: "di-bbdd-b35e0.firebasestorage.app",
